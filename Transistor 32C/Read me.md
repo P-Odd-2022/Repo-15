@@ -1,1 +1,0 @@
-Transistor 32C
